@@ -5,8 +5,9 @@
 
 #### Way to work
 
-1 - On a Cisco Router CLI , Issue this command : *sh ip flow top-talkers* ;
-2 - Copy the output using CRTL+C;
-3 - Open the resolver and paste using CRTL+V;
-4 - Application will get pasted data and resolve all IP address collums;
+- On a Cisco Router CLI , Issue this command : `sh ip flow top-talkers` ;
+- Copy the output using CRTL+C;
+- Open the resolver and paste using CRTL+V;
+- Application will get pasted data and resolve all IP address collums;
+- Export using *CSV Button* to a CSV formatted file;
 
