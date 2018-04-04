@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/03/22 10:17:15.000.320,=C:\Users\aneto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/22 10:35:55.000.628,=C:\Users\aneto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/22 10:43:01.000.279,C:\Users\aneto\Documents\Embarcadero\Studio\Projects\resolver\Unit1.pas=C:\Users\aneto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/22 10:43:01.000.279,C:\Users\aneto\Documents\Embarcadero\Studio\Projects\resolver\Unit1.dfm=C:\Users\aneto\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/03/22 10:43:07.000.315,C:\Users\aneto\Documents\Embarcadero\Studio\Projects\resolver\Project1.dproj=C:\Users\aneto\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/04/04 11:22:30.000.577,C:\desenv\top-talkers-resolve\Project1.dproj=C:\desenv\top-talkers-resolve\Project1.dproj</Transaction>
+    <Transaction>2018/04/04 11:36:26.312,C:\desenv\top-talkers-resolve\top-talkers-resolve\Project1.dproj=C:\desenv\top-talkers-resolve\top-talkers-resolve\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
